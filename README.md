@@ -7,6 +7,9 @@
 
 **告别磁盘红条！让多个 ComfyUI 实例共享百 GB 模型，空间利用率提升。**
 
+<img width="850" height="800" alt="ScreenShot_2026-01-20_102847_792" src="https://github.com/user-attachments/assets/d32ada91-8429-424d-ac8b-33e63f2435ab" />
+
+
 ## 💡 为什么需要 SmartMkLinker？
 
 在处理 Stable Diffusion 或 ComfyUI 时，每个实例动辄几十 GB 的 `models` 或 `output` 文件夹是磁盘空间的“头号占用”。
